@@ -1,0 +1,23 @@
+D:\Troll\2021_22 I  - BevGraf - DT\GrafikaAlap\GrafikaAlap\bin\Debug\GrafikaAlap.exe.config
+D:\Troll\2021_22 I  - BevGraf - DT\GrafikaAlap\GrafikaAlap\bin\Debug\GrafikaAlap.exe
+D:\Troll\2021_22 I  - BevGraf - DT\GrafikaAlap\GrafikaAlap\bin\Debug\GrafikaAlap.pdb
+D:\Troll\2021_22 I  - BevGraf - DT\GrafikaAlap\GrafikaAlap\obj\Debug\GrafikaAlap.csprojResolveAssemblyReference.cache
+D:\Troll\2021_22 I  - BevGraf - DT\GrafikaAlap\GrafikaAlap\obj\Debug\GrafikaAlap.Form1.resources
+D:\Troll\2021_22 I  - BevGraf - DT\GrafikaAlap\GrafikaAlap\obj\Debug\GrafikaAlap.Properties.Resources.resources
+D:\Troll\2021_22 I  - BevGraf - DT\GrafikaAlap\GrafikaAlap\obj\Debug\GrafikaAlap.csproj.GenerateResource.Cache
+D:\Troll\2021_22 I  - BevGraf - DT\GrafikaAlap\GrafikaAlap\obj\Debug\GrafikaAlap.exe
+D:\Troll\2021_22 I  - BevGraf - DT\GrafikaAlap\GrafikaAlap\obj\Debug\GrafikaAlap.pdb
+C:\Users\akos4\Desktop\FMNUMU\03\GrafikaAlap\obj\Debug\GrafikaAlap.csproj.AssemblyReference.cache
+C:\Users\akos4\Desktop\FMNUMU\03\GrafikaAlap\obj\Debug\GrafikaAlap.csproj.SuggestedBindingRedirects.cache
+C:\Users\akos4\Desktop\FMNUMU\03\GrafikaAlap\obj\Debug\GrafikaAlap.Form1.resources
+C:\Users\akos4\Desktop\FMNUMU\03\GrafikaAlap\obj\Debug\GrafikaAlap.Properties.Resources.resources
+C:\Users\akos4\Desktop\FMNUMU\03\GrafikaAlap\obj\Debug\GrafikaAlap.csproj.GenerateResource.cache
+C:\Users\akos4\Desktop\FMNUMU\03\GrafikaAlap\obj\Debug\GrafikaAlap.csproj.CoreCompileInputs.cache
+C:\Users\akos4\Desktop\FMNUMU\03\GrafikaAlap\obj\Debug\GrafikaAlap.exe
+C:\Users\akos4\Desktop\FMNUMU\03\GrafikaAlap\obj\Debug\GrafikaAlap.pdb
+C:\Users\akos4\Desktop\FMNUMU\03\GrafikaAlap\bin\Debug\GrafikaAlap.exe.config
+C:\Users\akos4\Desktop\FMNUMU\03\GrafikaAlap\bin\Debug\GrafikaAlap.exe
+C:\Users\akos4\Desktop\FMNUMU\03\GrafikaAlap\bin\Debug\GrafikaAlap.pdb
+C:\Users\akos4\Desktop\FMNUMU\03\GrafikaAlap\bin\Debug\GrafikaDLL.dll
+C:\Users\akos4\Desktop\FMNUMU\03\GrafikaAlap\bin\Debug\GrafikaDLL.pdb
+C:\Users\akos4\Desktop\FMNUMU\03\GrafikaAlap\obj\Debug\GrafikaAlap.csproj.CopyComplete
