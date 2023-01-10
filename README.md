@@ -1,1 +1,2 @@
-Grafika-ZH-uni
+# Grafika-ZH-uni
+BevGraf ZH Projektem
